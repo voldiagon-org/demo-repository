@@ -1,4 +1,4 @@
-name: Auto Assign
+name: Auto Assigner
 on:
   issues:
     types: [opened]
