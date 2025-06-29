@@ -1,9 +1,0 @@
-"run@tab_reload" - Reloads the current tab.
-"down@name.pdf" - Downloads a specific file onto your device.
-"upload@pdf" - Uploads a specific file type for viewing.
-"db@store=name.json" - Saves structured data to a JSON file.
-"db@query=user.id" - Retrieves specific records from a database.
-"db@update=id=5,status=active" - Modifies an existing entry in the database.
-"db@delete=id=7" - Removes a specific record.
-"db@filter=status=active" - Retrieves all entries matching a certain condition.
-"db@export=users.csv" - Converts and exports records to a CSV format.
